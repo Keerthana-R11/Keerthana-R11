@@ -24,8 +24,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Keerthana-R11"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Keerthana-R11" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthana-r11&show_icons=true&locale=en&layout=compact" alt="keerthana-r11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthana-r11&show_icons=true&locale=en" alt="keerthana-r11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana-r11&" alt="keerthana-r11" /></p>
