@@ -8,8 +8,6 @@
 
 👯 I’m looking to collaborate on **open-source projects**
 
-💬 Ask me about **software**
-
 📫 How to reach me: **keerthanakeerthi8792@gmail.com**
 
 ⚡ Fun fact: I love debugging more than coding sometimes 😅
