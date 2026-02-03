@@ -4,7 +4,7 @@
 
 
 
-🔭 I’m working on improving my **problem-solving** 
+
 
 👯 I’m looking to collaborate on **open-source projects**
 
