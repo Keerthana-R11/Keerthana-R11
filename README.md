@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Keerthana-R11&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=Keerthana-R11&color=blue)
 
 # Hey
 
