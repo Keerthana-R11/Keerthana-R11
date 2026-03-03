@@ -7,7 +7,7 @@ I'm Keerthana R, an aspiring AI Engineer who is passionate about building intell
 
 LinkedIn: www.linkedin.com/in/keerthana-r25
 
-## Languages& Tools
+## Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
